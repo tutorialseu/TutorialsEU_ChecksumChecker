@@ -1,0 +1,30 @@
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.exe
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.deps.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.runtimeconfig.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.csproj.AssemblyReference.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.AssemblyInfoInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.AssemblyInfo.cs
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.csproj.CoreCompileInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\refint\TutorialsEU_ChecksumChecker.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.genruntimeconfig.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\ref\TutorialsEU_ChecksumChecker.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.exe
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.deps.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.runtimeconfig.json
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\bin\Debug\net6.0\TutorialsEU_ChecksumChecker.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.csproj.AssemblyReference.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.AssemblyInfoInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.AssemblyInfo.cs
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.csproj.CoreCompileInputs.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\refint\TutorialsEU_ChecksumChecker.dll
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.pdb
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\TutorialsEU_ChecksumChecker.genruntimeconfig.cache
+E:\_WorkRelated\TutorialsEU\Manning\Projects\Github projects\TutorialsEU_ChecksumChecker\obj\Debug\net6.0\ref\TutorialsEU_ChecksumChecker.dll
